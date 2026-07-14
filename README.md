@@ -1,63 +1,68 @@
 <div align="center">
 
-# 📘 LeetCode Progress
+# 🚀 LeetCode Progress
 
-### *"Consistency compounds. Every problem solved is another step toward engineering excellence."*
+### *Mastering Data Structures & Algorithms — One Problem at a Time.*
 
-<p>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen?style=for-the-badge"/>
 </p>
 
----
-
-### Software Engineering • Competitive Programming • Technical Interview Preparation
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
 ---
 
-# About
+# 📖 About
 
-This repository serves as a structured archive of my accepted **LeetCode** solutions, implemented in **C++** and automatically synchronized using **LeetHub**.
+This repository serves as a structured archive of my accepted **LeetCode** solutions implemented in **C++**.
 
-The objective is not merely to solve problems, but to cultivate a deeper understanding of algorithmic thinking, data structures, optimization techniques, and clean implementation practices.
+Every solution reflects my continuous effort to strengthen:
 
-Every accepted submission reflects continuous progress toward becoming a better Software Engineer.
+- Data Structures
+- Algorithms
+- Problem Solving
+- Time & Space Complexity Analysis
+- Software Engineering Interview Preparation
 
----
-
-# Objectives
-
-- Master fundamental and advanced Data Structures
-- Develop strong algorithmic intuition
-- Improve analytical and problem-solving abilities
-- Write clean, optimized and maintainable code
-- Build consistency through daily practice
-- Prepare for Software Engineering interviews at top technology companies
+All accepted submissions are automatically synchronized using **LeetHub**, providing a transparent record of my coding consistency and technical growth.
 
 ---
 
-# Technical Stack
+# 🎯 Objectives
 
-| Category | Technologies |
-|----------|--------------|
+- Solve LeetCode problems consistently.
+- Develop strong algorithmic intuition.
+- Master fundamental and advanced DSA concepts.
+- Write clean, optimized, and maintainable code.
+- Prepare for Software Engineering interviews.
+- Build disciplined problem-solving habits.
+
+---
+
+# ⚙️ Technical Stack
+
+| Category | Technology |
+|----------|------------|
 | Language | C++17 |
 | Platform | LeetCode |
 | Version Control | Git |
-| Repository Hosting | GitHub |
+| Repository | GitHub |
 | Automation | LeetHub |
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```
 Leetcode_Progress
 │
 ├── 0001-Two-Sum
+├── 0014-Longest-Common-Prefix
 ├── 0141-Linked-List-Cycle
 ├── 0142-Linked-List-Cycle-II
 ├── 0876-Middle-of-the-Linked-List
@@ -65,52 +70,55 @@ Leetcode_Progress
 └── ...
 ```
 
-Each directory contains:
+Each problem directory contains:
 
 - Accepted Solution
-- Problem Metadata
-- Automatically synchronized after submission
+- Source Code
+- Automatic commit history
+- Performance statistics (when available)
 
 ---
 
-# Why This Repository?
+# 📈 Learning Philosophy
 
-> Great engineers are built through deliberate practice.
+> Consistency outperforms intensity.
 
-This repository documents my long-term commitment to mastering:
+Rather than chasing the number of problems solved, my focus is on understanding patterns, improving algorithmic thinking, and writing efficient, readable solutions.
 
-- Data Structures
-- Algorithms
-- Time & Space Complexity Analysis
-- Pattern Recognition
-- Interview-Oriented Problem Solving
-
-The repository is continuously updated as I solve new problems and explore more efficient approaches.
+Every accepted solution represents another step toward becoming a better Software Engineer.
 
 ---
 
-# Philosophy
+# 📌 Current Focus
 
-> **"Discipline over motivation. Progress over perfection."**
+- Linked Lists
+- Two Pointers
+- Hash Tables
+- Trees
+- Graph Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Binary Search
 
-Every solved problem contributes to stronger fundamentals, sharper analytical thinking, and greater confidence in tackling complex engineering challenges.
+---
+
+# 🤖 Automation
+
+This repository is automatically synchronized with GitHub using **LeetHub** after every accepted LeetCode submission.
 
 ---
 
-# Automation
+<div align="center">
 
-This repository is automatically synchronized with GitHub using **LeetHub**, ensuring every accepted LeetCode submission is version-controlled and documented.
+### ⭐ If you find this repository useful, consider giving it a star.
 
----
+**Happy Coding! 🚀**
 
-## Connect With Me
-
-**GitHub:** https://github.com/Aryan005-coder
-
----
+</div>
 
 <!---LeetCode Topics Start-->
 
-(Keep everything below exactly as LeetHub generates it.)
+(Leave everything below exactly as LeetHub generates it.)
 
 <!---LeetCode Topics End-->
