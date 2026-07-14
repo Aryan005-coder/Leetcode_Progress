@@ -1,93 +1,116 @@
-# LeetCode Progress
-
 <div align="center">
 
-### Data Structures & Algorithms | C++ | Problem Solving
+# 📘 LeetCode Progress
 
-*A structured collection of my accepted LeetCode solutions, maintained as part of my continuous Software Engineering interview preparation.*
+### *"Consistency compounds. Every problem solved is another step toward engineering excellence."*
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
-![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Sync](https://img.shields.io/badge/Sync-LeetHub-violet?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge"/>
+</p>
+
+---
+
+### Software Engineering • Competitive Programming • Technical Interview Preparation
 
 </div>
 
 ---
 
-## Overview
+# About
 
-This repository contains my accepted **LeetCode** solutions implemented in **C++** and automatically synchronized using **LeetHub**.
+This repository serves as a structured archive of my accepted **LeetCode** solutions, implemented in **C++** and automatically synchronized using **LeetHub**.
 
-The primary objective of this repository is to strengthen my understanding of:
+The objective is not merely to solve problems, but to cultivate a deeper understanding of algorithmic thinking, data structures, optimization techniques, and clean implementation practices.
+
+Every accepted submission reflects continuous progress toward becoming a better Software Engineer.
+
+---
+
+# Objectives
+
+- Master fundamental and advanced Data Structures
+- Develop strong algorithmic intuition
+- Improve analytical and problem-solving abilities
+- Write clean, optimized and maintainable code
+- Build consistency through daily practice
+- Prepare for Software Engineering interviews at top technology companies
+
+---
+
+# Technical Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Language | C++17 |
+| Platform | LeetCode |
+| Version Control | Git |
+| Repository Hosting | GitHub |
+| Automation | LeetHub |
+
+---
+
+# Repository Structure
+
+```
+Leetcode_Progress
+│
+├── 0001-Two-Sum
+├── 0141-Linked-List-Cycle
+├── 0142-Linked-List-Cycle-II
+├── 0876-Middle-of-the-Linked-List
+│
+└── ...
+```
+
+Each directory contains:
+
+- Accepted Solution
+- Problem Metadata
+- Automatically synchronized after submission
+
+---
+
+# Why This Repository?
+
+> Great engineers are built through deliberate practice.
+
+This repository documents my long-term commitment to mastering:
 
 - Data Structures
 - Algorithms
-- Problem Solving
-- Competitive Programming Concepts
-- Software Engineering Interview Preparation
+- Time & Space Complexity Analysis
+- Pattern Recognition
+- Interview-Oriented Problem Solving
 
-Each solution represents an accepted submission and serves as a record of my continuous learning and coding practice.
-
----
-
-## Repository Structure
-
-```
-Problem Number - Problem Name
-│
-├── Solution.cpp
-├── README.md (if available)
-└── Additional Files (if required)
-```
+The repository is continuously updated as I solve new problems and explore more efficient approaches.
 
 ---
 
-## Technologies
+# Philosophy
 
-- C++
-- STL
-- Git
-- GitHub
-- LeetHub
+> **"Discipline over motivation. Progress over perfection."**
+
+Every solved problem contributes to stronger fundamentals, sharper analytical thinking, and greater confidence in tackling complex engineering challenges.
 
 ---
 
-## Goals
+# Automation
 
-- Solve LeetCode problems consistently
-- Master fundamental and advanced DSA concepts
-- Improve algorithmic thinking
-- Write clean and efficient code
-- Prepare for Software Engineering roles
+This repository is automatically synchronized with GitHub using **LeetHub**, ensuring every accepted LeetCode submission is version-controlled and documented.
 
 ---
 
-## Progress
+## Connect With Me
 
-This repository is automatically updated whenever an accepted solution is submitted on LeetCode using **LeetHub**.
+**GitHub:** https://github.com/Aryan005-coder
 
 ---
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0142-linked-list-cycle-ii) |
 
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0142-linked-list-cycle-ii) |
-| [0876-middle-of-the-linked-list](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
+(Keep everything below exactly as LeetHub generates it.)
 
-## Two Pointers
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0142-linked-list-cycle-ii) |
-| [0876-middle-of-the-linked-list](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
