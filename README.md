@@ -129,10 +129,13 @@ Every accepted solution is version controlled.
 </div>
 
 <!---LeetCode Topics Start-->
-
-```
-⚠️ Do NOT edit anything below this line.
-LeetHub automatically updates this section.
-```
-
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
