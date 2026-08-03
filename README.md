@@ -151,6 +151,7 @@ Every accepted solution is version controlled.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
@@ -159,6 +160,7 @@ Every accepted solution is version controlled.
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
@@ -169,6 +171,7 @@ Every accepted solution is version controlled.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
@@ -179,4 +182,8 @@ Every accepted solution is version controlled.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
