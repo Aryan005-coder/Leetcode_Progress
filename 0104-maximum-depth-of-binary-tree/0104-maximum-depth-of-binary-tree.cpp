@@ -16,7 +16,6 @@ public:
 
         int lh = maxDepth(root->left);
         int rh  = maxDepth(root->right);
-        int diameter = max(diameter , lh + rh);
 
         return max(lh , rh) + 1;
         
