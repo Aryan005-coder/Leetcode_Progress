@@ -155,6 +155,7 @@ Every accepted solution is version controlled.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Every accepted solution is version controlled.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Every accepted solution is version controlled.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,4 +193,12 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
