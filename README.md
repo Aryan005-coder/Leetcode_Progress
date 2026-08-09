@@ -157,6 +157,7 @@ Every accepted solution is version controlled.
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Every accepted solution is version controlled.
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Every accepted solution is version controlled.
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Every accepted solution is version controlled.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
