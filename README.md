@@ -216,4 +216,16 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
