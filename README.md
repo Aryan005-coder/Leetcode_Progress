@@ -203,6 +203,7 @@ Every accepted solution is version controlled.
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -224,8 +225,10 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
