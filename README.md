@@ -223,6 +223,7 @@ Every accepted solution is version controlled.
 | [0001-two-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,4 +240,8 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
