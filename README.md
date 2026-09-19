@@ -244,4 +244,8 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
