@@ -199,6 +199,7 @@ Every accepted solution is version controlled.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String Matching
 |  |
@@ -221,6 +222,7 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0283-move-zeroes) |
@@ -248,4 +250,8 @@ Every accepted solution is version controlled.
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Aryan005-coder/Leetcode_Progress/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
